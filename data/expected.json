@@ -1,0 +1,193 @@
+{
+  "report_date": "2026-10-30",
+  "orders": 355,
+  "status": {
+    "Installed": 259,
+    "In progress": 17,
+    "Delayed start": 13,
+    "Scheduled": 37,
+    "To schedule": 29
+  },
+  "issues": {
+    "Not scheduled": 6,
+    "No planned dates": 7,
+    "No actual dates": 3,
+    "Finish before start": 1,
+    "Start delayed": 13,
+    "Duplicate schedule": 2,
+    "Unknown order": 5,
+    "No specification": 11,
+    "Specification incomplete": 12,
+    "Signed late": 24,
+    "Not signed, overdue": 19,
+    "No contract": 8
+  },
+  "monthly": [
+    {
+      "month": "2026-01",
+      "plan": 1128,
+      "sold": 871,
+      "installed": 958,
+      "specified": 444,
+      "delayed": 0,
+      "open": 3,
+      "no_manager": 2
+    },
+    {
+      "month": "2026-02",
+      "plan": 1125,
+      "sold": 740,
+      "installed": 1109,
+      "specified": 1010,
+      "delayed": 0,
+      "open": 2,
+      "no_manager": 1
+    },
+    {
+      "month": "2026-03",
+      "plan": 801,
+      "sold": 1179,
+      "installed": 718,
+      "specified": 843,
+      "delayed": 1,
+      "open": 3,
+      "no_manager": 0
+    },
+    {
+      "month": "2026-04",
+      "plan": 868,
+      "sold": 810,
+      "installed": 951,
+      "specified": 762,
+      "delayed": 0,
+      "open": 4,
+      "no_manager": 2
+    },
+    {
+      "month": "2026-05",
+      "plan": 852,
+      "sold": 738,
+      "installed": 851,
+      "specified": 761,
+      "delayed": 0,
+      "open": 2,
+      "no_manager": 3
+    },
+    {
+      "month": "2026-06",
+      "plan": 1130,
+      "sold": 1042,
+      "installed": 1033,
+      "specified": 735,
+      "delayed": 0,
+      "open": 2,
+      "no_manager": 0
+    },
+    {
+      "month": "2026-07",
+      "plan": 880,
+      "sold": 1095,
+      "installed": 859,
+      "specified": 963,
+      "delayed": 1,
+      "open": 3,
+      "no_manager": 1
+    },
+    {
+      "month": "2026-08",
+      "plan": 805,
+      "sold": 802,
+      "installed": 678,
+      "specified": 515,
+      "delayed": 1,
+      "open": 4,
+      "no_manager": 1
+    },
+    {
+      "month": "2026-09",
+      "plan": 1172,
+      "sold": 1113,
+      "installed": 957,
+      "specified": 868,
+      "delayed": 3,
+      "open": 3,
+      "no_manager": 1
+    },
+    {
+      "month": "2026-10",
+      "plan": 851,
+      "sold": 813,
+      "installed": 835,
+      "specified": 863,
+      "delayed": 7,
+      "open": 10,
+      "no_manager": 0
+    },
+    {
+      "month": "2026-11",
+      "plan": 1095,
+      "sold": 0,
+      "installed": 0,
+      "specified": 0,
+      "delayed": 0,
+      "open": 34,
+      "no_manager": 2
+    },
+    {
+      "month": "2026-12",
+      "plan": 897,
+      "sold": 0,
+      "installed": 0,
+      "specified": 0,
+      "delayed": 0,
+      "open": 26,
+      "no_manager": 1
+    }
+  ],
+  "products": {
+    "Access Control": {
+      "plan": 1230,
+      "installed": 1172,
+      "open": 6,
+      "delayed": 4
+    },
+    "CCTV System": {
+      "plan": 2255,
+      "installed": 2036,
+      "open": 7,
+      "delayed": 2
+    },
+    "Intrusion Alarm": {
+      "plan": 2683,
+      "installed": 2486,
+      "open": 9,
+      "delayed": 3
+    },
+    "Video Intercom": {
+      "plan": 1561,
+      "installed": 1431,
+      "open": 5,
+      "delayed": 1
+    },
+    "Wi-Fi Network": {
+      "plan": 1883,
+      "installed": 1824,
+      "open": 9,
+      "delayed": 3
+    }
+  },
+  "kpi": {
+    "plan_ytd": 9612,
+    "installed_ytd": 8949,
+    "open_ytd": 36,
+    "delayed": 13,
+    "open_issues": 111
+  },
+  "injected": {
+    "planned date removed": 7,
+    "same order in two crew files": 2,
+    "actual date removed": 3,
+    "finish before start": 1,
+    "order not in order list": 5
+  }
+}

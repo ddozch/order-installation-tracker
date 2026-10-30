@@ -1,0 +1,13 @@
+# Text files are stored with LF line endings, whatever core.autocrlf is set to
+* text=auto
+
+# The VBA editor imports modules as Windows text
+*.bas text eol=crlf
+
+*.xlsm binary
+*.xlsx binary
+*.png binary
+*.gif binary
+*.jpg binary
+*.pdf binary
+*.bin binary

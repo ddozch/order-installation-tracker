@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Excel lock files and temporary files
+~$*
+*.tmp
+
+# Windows and editors
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
